@@ -1,1 +1,1 @@
-# Group7_VendingMachineTracker_SAD_20242025
+# Group7_VendingMachineTracker_Project1_SAD_20242025
